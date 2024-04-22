@@ -42,7 +42,7 @@ password: admin
 
 Clone repository
 ```
-git clone https://gitlab.com/sefi06/hotel-reservations.git
+git clone https://github.com/msefi/hotel-reservations.git
 ```
 
 Go to directory
