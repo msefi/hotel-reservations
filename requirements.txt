@@ -1,0 +1,14 @@
+fitur yang bisa dikembangkan:
+
+1. fasilitas seharusnya bisa dibikin crud supaya dinamis
+2. manajemen admin per hotel, seharusnya perlu bikin role supaya mudah me manage jika datanya sudah banyak
+3. checkout hotel seharusnya dibikin menu terpisah:
+    - data
+        - reservation: 
+            * seharusnya hanya menampilkan data yang belum checkin
+    - report
+        - reservation: 
+            * seharusnya hanya menampilkan data yang sudah checkout saja
+4. dari sisi web seharusnya implementasi payment gateway sebagai jaminan reservasi entah itu hanya membayarkan DP nya saja (tidak bisa full payment karena ada fitur reschedule)
+5. belum implementasi unit test
+6. dan mungkin masih banyak lagi
