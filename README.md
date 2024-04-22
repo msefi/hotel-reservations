@@ -86,3 +86,5 @@ Let's start
 ```
 php artisan serve
 ```
+
+Enjoy
